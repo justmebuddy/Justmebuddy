@@ -5,7 +5,7 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=justmebuddy&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
 </p>
 
-<h1 align="center">🛡️ justmebuddy 🛡️</h1>
+<h1 align="center">🛡️ 𝓙𝓾𝓼𝓽𝓶𝓮 𝓑𝓾𝓭𝓭𝔂 🛡️</h1>
 <h3 align="center">Cyber Security Enthusiast | Self-Taught Learner</h3>
 
 ---
@@ -13,7 +13,7 @@
 ### 🧑‍💻 Developer DNA
 ```typescript
 interface DeveloperProfile {
-  name: "justmebuddy";
+  name: "𝓙𝓾𝓼𝓽𝓶𝓮 𝓑𝓾𝓭𝓭𝔂";
   age: 18;
   location: "India";
   background: "Self-Taught Learner";
