@@ -25,13 +25,12 @@ interface DeveloperProfile {
   currentFocus: "Advanced Cyber Security Techniques";
   philosophy: "Security isn't a product, it's a process";
 }
-
-
+'''
 ---
 
-###🛠️ Technical Arsenal
+### 🛠️ Technical Arsenal
 
-💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -49,7 +48,7 @@ interface DeveloperProfile {
 </div>
 ---
 
-###📊 Development & Security Analytics
+####📊 Development & Security Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justmebuddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -59,24 +58,46 @@ interface DeveloperProfile {
 </div>
 ---
 
-🚀 Highlight Projects
+#### 🔧 Tools & Platforms
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+</div>
 
-🔗 VulnScan
+---
+
+### 📊 Development Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gtajisan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtajisan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gtajisan&theme=react-dark&hide_border=true&area=true" width="90%"/>
+</div>
+
+---
+
+### 🚀 Highlight Projects
+
+####🔗 VulnScan
 
 Automated vulnerability scanner for web applications
 
-🔗 SecureShell-Automator
+####🔗 SecureShell-Automator
 
 SSH task automation with security best practices
 
-🔗 NetMon
+####🔗 NetMon
 
 Real-time network monitoring and analysis tool
 
 
 ---
-
-🌐 Digital Presence
+### 🌐 Digital Presence
 
 <div align="center">
   <a href="https://your-portfolio-link">
@@ -91,7 +112,8 @@ Real-time network monitoring and analysis tool
 </div>
 ---
 
-📌 Pinned Repositories
+
+### 📌 Pinned Repositories
 
 <div align="center">
   <a href="https://github.com/justmebuddy/VulnScan">
@@ -103,7 +125,7 @@ Real-time network monitoring and analysis tool
 </div>
 ---
 
-💡 Currently Exploring
+### 💡 Currently Exploring
 
 Advanced penetration testing techniques
 
@@ -117,8 +139,11 @@ Malware analysis
 
 ---
 
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=justmebuddy&label=Profile+Views&color=blueviolet&style=flat-square" />
   <p>🛡️ Fun fact: My first "hack" was finding a loophole in my school’s Wi-Fi login page!</p>
 </div>
 ```
+
+
