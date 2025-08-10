@@ -1,7 +1,4 @@
-I see why it might not have displayed properly — your README content mixes Markdown and HTML, but it has some formatting issues like missing line breaks between sections, inconsistent <div> closures, and Markdown separators --- not always spaced correctly.
-If we clean it up and make the HTML/Markdown hybrid neat, GitHub will render it correctly.
 
-Here’s a fixed README.md version that should display exactly like you want:
 
 # 👋 Hey there, I'm justmebuddy
 
