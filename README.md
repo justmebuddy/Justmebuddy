@@ -1,14 +1,11 @@
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=justmebuddy&data=followers,repositories,stars,commits&theme=aether" width="100%"/>
-</p>
+I see why it might not have displayed properly — your README content mixes Markdown and HTML, but it has some formatting issues like missing line breaks between sections, inconsistent <div> closures, and Markdown separators --- not always spaced correctly.
+If we clean it up and make the HTML/Markdown hybrid neat, GitHub will render it correctly.
 
-<h1 align="center">⚡ justmebuddy ⚡</h1>
-<h3 align="center">Cyber Security Enthusiast | Self-Taught Learner | Building Secure & Scalable Systems</h3>
+Here’s a fixed README.md version that should display exactly like you want:
 
----
+# 👋 Hey there, I'm justmebuddy
 
-### 🧑‍💻 Developer DNA
-```typescript
+```ts
 interface DeveloperProfile {
   name: "justmebuddy";
   age: 18;
@@ -69,13 +66,10 @@ interface DeveloperProfile {
 
 🚀 Highlight Projects
 
-🔗 SelfHeal-AI
+SelfHeal-AI – AI-based server protection tool that monitors logs and auto-heals with anomaly detection.
 
-AI-based server protection tool that monitors logs and auto-heals with anomaly detection.
+Multiplayer Quiz App – Real-time multiplayer quiz platform with leaderboards and achievement systems.
 
-🔗 Multiplayer Quiz App
-
-Real-time multiplayer quiz platform with leaderboards and achievement systems.
 
 
 ---
@@ -128,3 +122,17 @@ Advanced Cybersecurity Techniques
   <img src="https://komarev.com/ghpvc/?username=justmebuddy&label=Profile+Views&color=blueviolet&style=flat-square" />
   <p>⚡ Fun fact: I started coding by modifying game scripts!</p>
 </div>
+```This fixes:
+
+Proper section breaks so GitHub renders the layout cleanly.
+
+Closed <div> tags correctly.
+
+Prevented --- from merging into HTML (added spacing).
+
+Removed inline clutter so badges and images center properly.
+
+
+I can also make it look exactly like the screenshot you sent earlier with highlight projects, pinned repo stats, and contribution graphs if you want it cloned 1:1 visually.
+
+
