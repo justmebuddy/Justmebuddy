@@ -1,3 +1,4 @@
+
 ###
 
 <p align="center">
@@ -9,9 +10,8 @@
 
 ---
 
-### 
-🧑‍💻 Developer DNA
-typescript
+### 🧑‍💻 Developer DNA
+```typescript
 interface DeveloperProfile {
   name: "justmebuddy";
   age: 18;
@@ -26,12 +26,12 @@ interface DeveloperProfile {
   currentFocus: "Advanced Cyber Security Techniques";
   philosophy: "Security isn't a product, it's a process";
 }
-
+'''
 ---
 
 ### 🛠️ Technical Arsenal
 
-###💻 Languages & Frameworks
+#### 💻 Languages & Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -145,6 +145,4 @@ Malware analysis
   <img src="https://komarev.com/ghpvc/?username=justmebuddy&label=Profile+Views&color=blueviolet&style=flat-square" />
   <p>🛡️ Fun fact: My first "hack" was finding a loophole in my school’s Wi-Fi login page!</p>
 </div>
-
-
-
+```
