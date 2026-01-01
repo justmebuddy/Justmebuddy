@@ -59,36 +59,6 @@ interface DeveloperProfile {
 </div>
 
 ---
-
-### 📊 Development Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gtajisan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gtajisan&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gtajisan&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
-
----
-
-### 🚀 Highlight Projects
-
-####🔗 VulnScan
-
-Automated vulnerability scanner for web applications
-
-####🔗 SecureShell-Automator
-
-SSH task automation with security best practices
-
-####🔗 NetMon
-
-Real-time network monitoring and analysis tool
-
-
----
 ### 🌐 Digital Presence
 
 <div align="center">
