@@ -47,16 +47,7 @@ interface DeveloperProfile {
   <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
 </div>
----
 
-####📊 Development & Security Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justmebuddy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justmebuddy&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div><div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=justmebuddy&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
 ---
 
 #### 🔧 Tools & Platforms
